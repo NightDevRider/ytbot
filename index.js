@@ -22,7 +22,7 @@ var skippers = [];
 
 client.login(discord_token);
 
-client.on('ready', function () {
+client.on('message', message => {
   const member = message.member;
   const mess = message.content.toLowerCase();
   const args = message.content.split(' ').slice(1).join(" ");
