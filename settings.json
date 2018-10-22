@@ -1,6 +1,6 @@
 {
-  "yt_api_key": "AIzaSyCI20MWCjfrd82qLUFFOUr4ejmu4yBXDN8",
-  "discord_token": "NTAyODI5OTk3ODgzNTIzMDk3.DqvuwA.X0kwOjiyDHPJ-m-avY20_YKYTTY",
-  "bot_controller": "502975775381651466",
-  "prefix": "-"
+  "yt_api_key": "your API Key",
+  "discord_token": "your Bot Token",
+  "bot_controller": "id control role",
+  "prefix": "p!"
 }
